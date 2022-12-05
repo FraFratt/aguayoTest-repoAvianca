@@ -1,0 +1,20 @@
+
+Requerimientos para el test:
+
+''misión
+
+Esperamos una maqueta responsive que reflejen los diseños compartidos. Los archivos y assets generados deben subirse a un repositorio en Gitlab, compartir URL pública para poder acceder a la entrega.
+
+Ten en cuenta:
+
+- Las fuentes utilizadas están disponibles en Google Fonts (Lato)
+- **IMPORTANTE:** Debes escribir todo el CSS y HTML desde cero. El uso de cualquier marco CSS está estrictamente prohibido.''
+
+-Se dispone de 2 días hábiles para realizar el reto.
+
+
+-----------------------------------------------
+
+En este repositorio de Github adjunté el prototipo Figma asignado para la maquetación:
+
+''Aguayo-Test-Maquetación (3).fig''
